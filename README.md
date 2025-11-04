@@ -8,11 +8,11 @@ HealthTrack is a monolithic web application that allows patients to register, bo
 
 Key Features:
 
-Patient registration and authentication
-Therapy and specialist catalog
-Online booking and schedule management
-Session cancellation and rescheduling
-Monthly consultation booking
+Patient registration and authentication, 
+Therapy and specialist catalog, 
+Online booking and schedule management, 
+Session cancellation and rescheduling, 
+Monthly consultation booking.
 
 Technologies Used:
 Spring Boot • Spring Security • Spring Data JPA • Hibernate • REST API • JWT • Scheduler • PostgreSQL/MySQL
